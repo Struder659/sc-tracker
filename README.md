@@ -48,7 +48,7 @@ Before deployment, modify the `config.py` file to set the target parameters:
 
 ```
 # Target Configuration
-TARGET_PROFILE_URL = "[https://soundcloud.com/youruser/tracks]"
+TARGET_PROFILE_URL = "https://soundcloud.com/youruser/tracks"
 
 # Polling frequency in seconds
 CHECK_INTERVAL = 100

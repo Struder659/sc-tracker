@@ -1,5 +1,12 @@
 ***
 
+'''
+     _____ _____    _____         _   _             
+    |   __|     |  |  _  |___ ___| |_|_|_ _ ___ ___ 
+    |__   |   --|  |     |  _|  _|   | | | | -_|  _|
+    |_____|_____|  |__|__|_| |___|_|_|_|\_/|___|_| 
+'''
+
 # ScTracker
 
 This software functions as an automated monitoring solution for SoundCloud user profiles. Designed for stability and operational efficiency, it employs a hybrid technical approach to detect new content immediately upon release and archive it locally.

@@ -34,7 +34,7 @@ The system operates on a continuous polling loop defined by the following logic:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Struder659/sc-tracker.git
-    cd soundcloud-tracker
+    cd sc-tracker
     ```
 
 2.  **Install required Python packages:**
